@@ -21,7 +21,7 @@ bodypart = input("Please give me a body part: ")
 verb2 = input("Please give me another verb that ends with the letter s : ")
 adverb1= input("Please give me an adverb: ")
 verb3 = input("Please give me another verb: ")
-verb4 = input("Please give me another verb: ")
+verb4 = input("Please give me another verb that ends with the letter s: ")
 
 
 print (name1  + " is " + verb1 + " " + name2 + " in a " + location)
