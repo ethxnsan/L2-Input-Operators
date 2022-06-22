@@ -15,3 +15,17 @@ Today is Monday --> "Today is Monday"
 PROMPT - A question or statement that the computer asks the user
 
 Python stores the __input__ in the __variableNAME__
+
+## Operators
+### Arithmetic Operators
+Use to perform mathematical operations
+
+1. Addition `+`
+2. Subtraction`-`
+3. Multiplication `*`
+4. Division`/` (Exact Answer), `//` (Quotient Divsion)
+5. Modulo `%` (Remainder)
+6. Exponent `**`
+
+Ex.
+```python #Code Block
